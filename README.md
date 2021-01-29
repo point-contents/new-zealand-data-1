@@ -12,13 +12,14 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Ministry of Social Development (MSD)
 	- [Statistics Page](https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/statistics/index.html)
 	- [Benefits Data Tables](https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/statistics/benefit/index.html#Datatables6)
-	- [Social Housing Register](http://www.housing.msd.govt.nz/information-for-housing-providers/register/index.html)
+	- [Housing Register](https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/statistics/housing/index.html)
+	- [Transfer Register](https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/statistics/housing/transfer-register.html)
 - Ministry of Justice (MoJ)
-	- [Conviction data](http://datalab.justice.govt.nz/data#1)
+	- [Conviction data](https://www.justice.govt.nz/justice-sector-policy/research-data/justice-statistics/data-tables/)
 - Ministry of Health (MoH)
 	- [Health Statistics and Datasets](http://www.health.govt.nz/nz-health-statistics/health-statistics-and-data-sets)
 - Ministry of Transport (MoT)
-	- [Transport Data](http://www.transport.govt.nz/ourwork/tmif/)
+	- [Transport Data](https://www.transport.govt.nz/statistics-and-insights/SearchForm)
 - Ministry for the Environment (MoE)
 	- [GIS Data & APIs](https://data.mfe.govt.nz/)
 - Department of Conservation (DoC)
@@ -26,7 +27,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Department of Internal Affairs (DIA) (+ DigitalNZ)
 	- [Digital NZ API](http://digitalnz.org/developers)
 	- [Data.govt.nz](http://data.govt.nz) – Contains listings of and links to over 3,400 datasets from various Government departments, including LINZ, National Library, ACC, Police, various District Councils.  There were 247 datasets marked as either updated or newly added  between 1st June 2015 & 14th June 2015.
-	- [Government A-Z directory and Consultation Listing](https://www.govt.nz/about/api)
+	- [Government A-Z directory and Consultation Listing]()https://www.govt.nz/about/about-this-website/api/
 	- [New Zealand Gazette](http://www.digitalnz.org/developers/govhack-infopack#gazette)
 	- [Papers Past](http://natlib.govt.nz/about-us/open-data/papers-past-metadata)
 	- [Turnbull Unpublished Collections](http://natlib.govt.nz/about-us/open-data/turnbull-unpublished-collections-metadata)
@@ -39,16 +40,16 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Land Information New Zealand (LINZ)
 	- [LINZ Data Service - GIS Data & APIs](https://data.linz.govt.nz/) - Authoritative New Zealand topographic, hydrographic, survey, title, street address, crown pastoral land, aerial imagery, and geodetic data.
 - Education Counts
-	- [Data Collections](https://www.educationcounts.govt.nz/data-services/data-collections)
+	- [Data Collections](https://www.educationcounts.govt.nz/data-services/national)
 	- [Statistics](http://www.educationcounts.govt.nz/statistics)
 - New Zealand Walking Access Commission
 	- [Public Access Areas](https://data.govt.nz/dataset/show/3630)
-	- [Public Access Areas (REST API)](http://wams.org.nz/arcgis/rest/services/WEBSERVICE/WEBSERVICE_Public_Access_Areas/MapServer)
+	- [Public Access Areas (REST API)](https://maps.walkingaccess.govt.nz/maps/rest/services)
 	- [Generic Information](http://walkingaccess.govt.nz/walking-access-mapping/gis-data/)
 - New Zealand Police
 	- [Crime Statistics](http://www.police.govt.nz/about-us/publications/statistics)
 - New Zealand Qualifications Authority (NZQA)
-	- [Secondary School Stats](http://www.nzqa.govt.nz/studying-in-new-zealand/secondary-school-and-ncea/find-information-about-a-school/secondary-school-statistics/consolidated-files/)
+	- [Secondary School Stats](https://www.nzqa.govt.nz/studying-in-new-zealand/secondary-school-and-ncea/find-information-about-a-school/secondary-school-statistics/data-files-for-3/)
 - New Zealand Transport Agency (NZTA)
 	- [NZTA InfoConnect](https://www.nzta.govt.nz/traffic-and-travel-information/infoconnect-section-page/)
 		- [Auckland Traffic](https://www.nzta.govt.nz/traffic-and-travel-information/infoconnect-section-page/about-the-apis/auckland-traffic-api/)
@@ -58,7 +59,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 		- [SSDF Segment Manager](https://www.nzta.govt.nz/traffic-and-travel-information/infoconnect-section-page/about-the-apis/ssdf-segment-manager-api/)
 		- [Traffic Cameras](https://www.nzta.govt.nz/traffic-and-travel-information/infoconnect-section-page/about-the-apis/traffic-cameras/)
 	- [Crash Analysis System (CAS)](https://www.nzta.govt.nz/resources/crash-analysis-system-data/index.html)
-	- [Aerial Imagery](https://koordinates.com/publisher/nzta/data/)
+	- [Aerial Imagery](https://nzta.koordinates.com/group/nzta/)
 - Ministry of Business, Innovation and Employment (MBIE)
 	- [API](https://api.business.govt.nz/api/)
 		- [Companies Office](https://api.business.govt.nz/api/explore-apis/by-category?tag=Companies-group)
@@ -73,9 +74,8 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 		- [Tenancy Services](https://api.business.govt.nz/api/explore-apis/by-category?tag=Tenancy-group)
 
 ### District Councils
-- [Regional Tourism Estimates](http://www.med.govt.nz/sectors-industries/tourism/tourism-research-data/regional-tourism-estimates/key-pivot-table) - annual dollars
-- [Regional Tourism Indicators](http://www.med.govt.nz/sectors-industries/tourism/tourism-research-data/regional-tourism-indicators) - monthly index
-- [Tourism forecasts](http://www.med.govt.nz/sectors-industries/tourism/tourism-research-data/forecasts/2015-2021-forecasts)
+- [Regional Tourism Estimates](https://www.mbie.govt.nz/immigration-and-tourism/tourism-research-and-data/tourism-data-releases/monthly-regional-tourism-estimates/regional-tourism-estimates/) - annual dollars
+- [Regional Tourism Indicators](https://www.mbie.govt.nz/immigration-and-tourism/tourism-research-and-data/tourism-data-releases/monthly-regional-tourism-estimates/regional-tourism-indicators/) - monthly index
 - Reserve Bank of New Zealand
 	- [Statistics](http://www.rbnz.govt.nz/statistics/)
 - New Zealand Defence Force (NZDF)
@@ -109,7 +109,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - NIWA
   - [CliFlo Climate Database](http://cliflo.niwa.co.nz/)
   - [River Environment Classification (REC) v2.0 (OGC WMS)](http://gs.niwa.co.nz/rec/wms)
-  - [River Envrionment Classification (REC) v2.0 (ArcGIS WMTS)](http://gis.niwa.co.nz/arcgis/rest/services/HYDRO/REC_rivers_lakes/MapServer/WMTS?)
+  - [River Envrionment Classification (REC) v2.0 (ArcGIS WMTS)](https://gis.niwa.co.nz/arcgis/rest/services/HYDRO/REC_rivers_lakes/MapServer/WMTS?)
   - [Tide forecasts] (https://developer.niwa.co.nz/docs/tide-api/1/overview)
   - [UV forecasts] (https://developer.niwa.co.nz/docs/uv-api/1/overview)
   - [SolarView] (https://developer.niwa.co.nz/docs/solarview-api/1/overview)
