@@ -89,17 +89,15 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 	- [Auckland Transport API](https://api.at.govt.nz/)
 	- [Auckland Transport Open GIS Data](http://data.atgis.opendata.arcgis.com/)
 - Wanganui District Council
-	- [Full Datasets](http://wdc.wanganui.govt.nz/odata/xml/index.html)
-	- [GIS data](http://maps.wanganui.govt.nz/geoserver/web/;jsessionid=h7wgq0v25vjm?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage)
-	- [Cemetery Search](http://www.wanganui.govt.nz/our-services/cemeteries-and-crematorium/Pages/Cemetery-Search.aspx)
-	- [Property/Rating Search](http://www.wanganui.govt.nz/our-services/property-and-rates/rating-and-valuations/Pages/default.aspx)
-	- [Food Grading Search](http://www.wanganui.govt.nz/our-services/do-it-online/food-grading-search/Pages/default.aspx)
+	- [Full Datasets](https://data.whanganui.govt.nz/)
+	- [Cemetery Search](https://www.whanganui.govt.nz/Services-Amenities/Cemeteries-Crematorium/Cemetery-Search)
+	- [Property/Rating Search](https://www.whanganui.govt.nz/Property/Rates/Property-Rating-Search)
 - Wellington City Council (WCC)
 	- [GIS Data](http://data.wcc.opendata.arcgis.com/)
 	- [GIS Data (alternative)](https://koordinates.com/publisher/wcc/data/)
-	- [Metlink Realtime Data (non-API)](http://www.metlink.org.nz/getting-around/real-time-information/)
+	- [Metlink Realtime Data (non-API)](https://opendata.metlink.org.nz/)
 - Environment Canterbury & Partners (ECAN)
-	- [GIS Data & APIs](https://data.canterburymaps.govt.nz/)
+	- [GIS Data & APIs](https://opendata.canterburymaps.govt.nz/)
 - Greater Wellington Regional Council (GWRC)
 	- [GIS Data & APIs](https://koordinates.com/publisher/greater-wellington-regional-council/data/)
 - Porirua City Council
@@ -116,7 +114,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [UV forecasts] (https://developer.niwa.co.nz/docs/uv-api/1/overview)
   - [SolarView] (https://developer.niwa.co.nz/docs/solarview-api/1/overview)
 - GNS Science
-	- [GeoNet - Earthquake Data](http://www.geonet.org.nz/resources/earthquake/quake-web-services.html)
+	- [GeoNet - Full API](https://api.geonet.org.nz/)
 - Landcare Research | Manaaki Whenua
 	- [LRIS Portal - Science/Land GIS Data & APIs](https://lris.scinfo.org.nz/)
 	- [Topographic basemaps (OGC WMS)](http://maps.scinfo.org.nz/basemaps/wms?)
@@ -127,12 +125,6 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 	- [Natural resources data](http://www.lawa.org.nz/)
 - New Zealand Organisms Register
 	- [Organism Register](http://data.nzor.org.nz/)
-- Figure NZ (formally Wiki New Zealand)
-	- [Full API](http://figure.nz/api/)
-- Open Data
-	- [Multiple Various Datasets](http://cat.open.org.nz/category/dataset/) (needs expanding)
-- Hack Miramar
-	- [Multiple Various Datasets and APIs](https://hack-miramar.wikispaces.com/Data+sources) (needs expanding)
 - New Zealand Institute of Economic Research
 	- [Data1850 – Long-term economic data](https://data1850.nz/)
 
@@ -152,7 +144,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Eventfinder
 	- [Event Infomation](http://www.eventfinder.co.nz/api/index)
 - TradeMe
-	- [Full API](http://developer.trademe.co.nz/)
+	- [Full API](https://developer.trademe.co.nz/)
 - Xero
 	- [Full API](http://developer.xero.com/documentation/getting-started/getting-started-guide/)
 - Wellington News
@@ -170,5 +162,3 @@ Hi there, if you're interested in helping out I'd love a PR with new links, if y
 I'd also be great to go through each link and figure out if it's static data or an API, and if the link actually goes some where.
 
 #### References and Attributions
-[Govhack 2015](http://govhack.org.nz/2015-data/),
-[Open NZ Wiki APIs](https://wiki.open.org.nz/wiki/display/main/New+Zealand+APIs) & [Datasets](http://cat.open.org.nz/category/dataset/)
