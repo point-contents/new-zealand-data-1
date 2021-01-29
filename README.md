@@ -45,7 +45,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - New Zealand Walking Access Commission
 	- [Public Access Areas](https://data.govt.nz/dataset/show/3630)
 	- [Public Access Areas (REST API)](https://maps.walkingaccess.govt.nz/maps/rest/services)
-	- [Generic Information](http://walkingaccess.govt.nz/walking-access-mapping/gis-data/)
+	- [Generic Information](https://www.walkingaccess.govt.nz/gis-data/)
 - New Zealand Police
 	- [Crime Statistics](http://www.police.govt.nz/about-us/publications/statistics)
 - New Zealand Qualifications Authority (NZQA)
