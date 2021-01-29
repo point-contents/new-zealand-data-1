@@ -18,9 +18,12 @@ jobs:
         # grep for all text inside ()'s 
         # and again for any line that now starts with http
         # this will overwrite the old file
-        grep -oP '\(\K[^\)]+' README.md | grep -E '^http' > urls.csv
+        touch urls.csv
+        echo "Domain" > urls.csv
+        grep -oP '\(\K[^\)]+' README.md | grep -E '^http' >> urls.csv
 
         # add a ',' to the end of each line to make it an actual csv
+        # this also makes it so that the file is searchable on github
         sed -i 's/$/\,/' urls.csv
 
         #commit to HEAD
