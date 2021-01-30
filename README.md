@@ -35,6 +35,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 	- [Publications New Zealand](http://natlib.govt.nz/about-us/open-data/publications-nz-metadata)
 	- [Index New Zealand](http://natlib.govt.nz/about-us/open-data/innz-metadata)
 	- [Free Alexander Turnbull Library Image Downloads](http://natlib.govt.nz/photos?il%5batl_free_download%5d=true)
+	- [Charities](https://www.charities.govt.nz/charities-in-new-zealand/the-charities-register/open-data/)
 - Inland Revenue (IRD)
   - [Tax Statistics](https://www.ird.govt.nz/about-us/tax-statistics)
 - Land Information New Zealand (LINZ)
@@ -72,7 +73,6 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 		- [Personal Property Securities Register (PPSR)](https://api.business.govt.nz/api/explore-apis/by-category?tag=PPSR-group)
 		- [Radio Spectrum Management (RSM)](https://api.business.govt.nz/api/explore-apis/by-category?tag=RSM-group)
 		- [Tenancy Services](https://api.business.govt.nz/api/explore-apis/by-category?tag=Tenancy-group)
-
 ### District Councils
 - [Regional Tourism Estimates](https://www.mbie.govt.nz/immigration-and-tourism/tourism-research-and-data/tourism-data-releases/monthly-regional-tourism-estimates/regional-tourism-estimates/) - annual dollars
 - [Regional Tourism Indicators](https://www.mbie.govt.nz/immigration-and-tourism/tourism-research-and-data/tourism-data-releases/monthly-regional-tourism-estimates/regional-tourism-indicators/) - monthly index
@@ -110,9 +110,9 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [CliFlo Climate Database](http://cliflo.niwa.co.nz/)
   - [River Environment Classification (REC) v2.0 (OGC WMS)](http://gs.niwa.co.nz/rec/wms)
   - [River Envrionment Classification (REC) v2.0 (ArcGIS WMTS)](https://gis.niwa.co.nz/arcgis/rest/services/HYDRO/REC_rivers_lakes/MapServer/WMTS?)
-  - [Tide forecasts] (https://developer.niwa.co.nz/docs/tide-api/1/overview)
-  - [UV forecasts] (https://developer.niwa.co.nz/docs/uv-api/1/overview)
-  - [SolarView] (https://developer.niwa.co.nz/docs/solarview-api/1/overview)
+  - [Tide forecasts](https://developer.niwa.co.nz/docs/tide-api/1/overview)
+  - [UV forecasts](https://developer.niwa.co.nz/docs/uv-api/1/overview)
+  - [SolarView](https://developer.niwa.co.nz/docs/solarview-api/1/overview)
 - GNS Science
 	- [GeoNet - Full API](https://api.geonet.org.nz/)
 - Landcare Research | Manaaki Whenua
@@ -128,6 +128,14 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - New Zealand Institute of Economic Research
 	- [Data1850 – Long-term economic data](https://data1850.nz/)
 
+### Museums
+
+- Auckland Museum
+	- [API Details](https://api.aucklandmuseum.com/)
+	- [API Tutorial](https://github.com/AucklandMuseum/API/wiki/Tutorial)
+- Te Papa
+	- [API Details](https://github.com/te-papa/collections-api/wiki/Getting-started)
+	- [Browser based API Explorer](https://data.tepapa.govt.nz/docs/apibrowser.html)
 
 ### Companies
 
@@ -155,6 +163,8 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 	- [Web Services API](https://www.psoda.com/download/PsodaWebServicesReference.pdf)
 - ASB
 	- [API](https://developer.asb.co.nz/)
+- Fishserve
+	- [General API Information](https://www.fishserve.co.nz/information/ers-master-data-apis-in-production)
 
 #### Help wanted
 Hi there, if you're interested in helping out I'd love a PR with new links, if you've never created a Pull Request before get in touch and I'll help you out.
